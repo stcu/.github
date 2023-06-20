@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Story: #here
-
 **Description**
 What you need to do here.
 
