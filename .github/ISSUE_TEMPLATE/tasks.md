@@ -1,8 +1,8 @@
 ---
 name: Task
 about: Create a work item to accomplish
-title: '✨ '
-labels: enhancement
+title: '⌛ '
+labels: task
 assignees: ''
 
 ---
