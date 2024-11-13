@@ -5,8 +5,6 @@ title: '✨ '
 labels: enhancement
 assignees: ''
 ---
-
-**Describe the solution you'd like**
 As a
 I would like to
 so that
